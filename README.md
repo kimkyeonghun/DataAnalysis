@@ -22,3 +22,8 @@ Index 1 to 10 is from kaggle.
 
 ### 2.  Data_Visualize
 
+| Index | Name                            |
+| ----- | ------------------------------- |
+| 1     | Data Visualization              |
+| 2     | Data Visualization using folium |
+
