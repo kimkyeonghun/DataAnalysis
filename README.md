@@ -27,3 +27,11 @@ Index 1 to 10 is from kaggle.
 | 1     | Data Visualization              |
 | 2     | Data Visualization using folium |
 
+### 3.  BaseBall Analysis
+
+| Index | Name                            |
+| ----- | ------------------------------- |
+| 1     | Who is the Best Player          |
+| 2     | Monthly Analysis                |
+| 3     | Relative Record                 |
+
