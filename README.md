@@ -35,3 +35,10 @@ Index 1 to 10 is from kaggle.
 | 2     | Monthly Analysis                |
 | 3     | Relative Record                 |
 
+### 4.  Subway Analysis
+
+| Index | Name                                 |
+| ----- | -------------------------------------|
+| 1     | Merge data                           |
+| 2     | Subway usage Analysis                |
+| 3     | Subway where Analysis                |
