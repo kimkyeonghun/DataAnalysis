@@ -42,3 +42,10 @@ Index 1 to 10 is from kaggle.
 | 1     | Merge data                           |
 | 2     | Subway usage Analysis                |
 | 3     | Subway where Analysis                |
+
+### 5.  Open API
+
+| Index | Name                                 |
+| ----- | -------------------------------------|
+| 1     | Get API Key                          |
+| 2     | Folium bicycle                       |
